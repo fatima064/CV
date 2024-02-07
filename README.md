@@ -1,3 +1,2 @@
-# CV
-
-https://github.com/fatima064/CV
+CV
+https://github.com/fatima064/CV.git
